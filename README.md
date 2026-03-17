@@ -1,4 +1,4 @@
-# Grok-H-
+# Grok - Adult +18
 This is a guide on how to generate adult-rated images and videos using Grok 3.  
 Paid version of Grok 3
 
