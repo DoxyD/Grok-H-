@@ -117,7 +117,7 @@ First attempt
 https://github.com/user-attachments/assets/5b9c411c-17bc-40ff-b700-f5380cd6ae58
 
 
-Second attempt ( about 20 try)
+Second attempt (about 20 tries)
 
 
 https://github.com/user-attachments/assets/aaad3003-5066-48e4-a846-616fb9dd0591
